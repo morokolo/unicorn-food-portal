@@ -1,0 +1,11 @@
+/src/jspm_packages
+/node_modules
+/dist
+/coverage
+/test/coverage
+.idea/
+.DS_Store
+.npmignore
+/test/e2e/screenshots
+/yarn.lock
+/package-lock.json
